@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Front-end Web Development and Website Design Part**
 
-- 📫 How to reach me **gauribirari2708@gmail.com**http://gauribirari.great-site.net/
+- 📫 How to reach me **gauribirari2708@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YKWslzuWYvWnmRDAdlZGcdOkLj3E8vYV/view?usp=share_link](https://drive.google.com/file/d/1YKWslzuWYvWnmRDAdlZGcdOkLj3E8vYV/view?usp=share_link)
 
