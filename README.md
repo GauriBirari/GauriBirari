@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Ecommerce Website Front-end Part](https://nmmm.in/)
 
-- 🌱 I’m currently learning <a href="http://gauribirari.great-site.net/">visit</a>
+- 🌱 Visit to my portfolio <a href="http://gauribirari.great-site.net/">visit</a>
 
 - 💬 Ask me about **Front-end Web Development and Website Design Part**
 
