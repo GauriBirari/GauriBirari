@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **gauribirari2708@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YKWslzuWYvWnmRDAdlZGcdOkLj3E8vYV/view?usp=share_link](https://drive.google.com/file/d/1YKWslzuWYvWnmRDAdlZGcdOkLj3E8vYV/view?usp=share_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1ksCYusnRzx5Tx7kWmHuqu1VCnQgNhajd/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
