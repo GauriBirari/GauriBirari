@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/@birarigauri" target="blank"><img src="https://img.shields.io/twitter/follow/@birarigauri?logo=twitter&style=for-the-badge" alt="@birarigauri" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce Website Front-end Part](https://nmmm.in/)
+- 🔭 I’m currently working on [yuvasarthi website](https://nmmm.in/)
 
 - 🌱 Visit to my portfolio <a href="https://gauribirari.onrender.com/">visit</a>
 
