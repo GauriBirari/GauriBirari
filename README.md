@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node Js, Mongodb**
 
-- 👨‍💻 All of my projects are available at [gauribirari.onrender.com](gauribirari.onrender.com)
+- 👨‍💻 All of my projects are available at <a href="gauribirari.onrender.com" target="_blank">gauribirari.onrender.com</a>
 
 - 💬 Ask me about **React Js, React Native, Front end Web Development**
 
